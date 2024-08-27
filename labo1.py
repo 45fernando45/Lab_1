@@ -1,4 +1,6 @@
 
+
+
 def vol_num(numero):
     numero_str = str(numero) #cadena
     numero_invertido_str = numero_str[::-1]
