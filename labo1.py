@@ -17,3 +17,5 @@ if entrada_usuario.isdigit():
     print(f'Número invertido: {resultado}')
 
 
+
+
